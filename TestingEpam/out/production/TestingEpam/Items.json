@@ -1,0 +1,22 @@
+[
+  {
+    "giftId": 5,
+    "itemWeight": 25.316180261040596,
+    "itemName": "Waffles"
+  },
+  {
+    "giftId": 5,
+    "itemWeight": 2.0569117234913836,
+    "itemName": "Sweet"
+  },
+  {
+    "giftId": 5,
+    "itemWeight": 16.643932505679174,
+    "itemName": "Fruit"
+  },
+  {
+    "giftId": 5,
+    "itemWeight": 7.543669412027602,
+    "itemName": "Chocolate bar"
+  }
+]
